@@ -1,7 +1,15 @@
 # CodenApp
 
 ## Sobre o Projeto
-CodenApp é uma aplicação baseada no teste do CodePen (https://codepen.io/CodenApp/pen/xxWWLJO)
+Construa um formulário (utilizando React) de criação/cadastro de usuário com validação de campos, utilizando apenas duas bibliotecas, uma para validação de campos e uma outra de sua preferência para máscara. Os campos deverão ser:
+
+- Nome
+- E-mail
+- Telefone
+- Senha
+- Confirmar senha
+
+Ao finalizar o cadastro e disparar o submit, deverá exibir na tela uma mensagem de confirmação.
 
 ## Tecnologias Utilizadas
 - React.js
@@ -17,7 +25,7 @@ CodenApp é uma aplicação baseada no teste do CodePen (https://codepen.io/Code
 ### Instalação
 1. Clone o repositório
 ```bash
-git clone https://github.com/alexjmarques/codenapp-teste.git
+git clone https://github.com/alexjmarques/codenapp-teste-form.git
 ```
 
 2. Instale as dependências
